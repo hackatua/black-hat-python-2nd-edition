@@ -14,6 +14,12 @@ deactivate
 
 ```
 
+### Run script as sudo
+
+```sh
+sudo env "PATH=$PATH VIRTUAL_ENV=$VIRTUAL_ENV" python <script>
+```
+
 ## Manage dependencies
 
 ### Update requirements.txt
