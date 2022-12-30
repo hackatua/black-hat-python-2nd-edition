@@ -13,3 +13,20 @@ source venv3/bin/activate
 deactivate
 
 ```
+
+## Manage dependencies
+
+### Update requirements.txt
+
+```sh
+python -m pip freeze > requirements.txt
+```
+
+### Install dependencies
+
+After activate the vitual environment
+
+```sh
+python -m pip install -r requirements.txt
+```
+
