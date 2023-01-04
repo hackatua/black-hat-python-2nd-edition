@@ -4,10 +4,10 @@
 
 ```sh
 # Create virtual environment with name venv3
-python3 -m venv vnev3
+python3 -m venv .venv
 
 # Activate virtual environment
-source venv3/bin/activate
+source .venv/bin/activate
 
 # Deactivate virtual environment
 deactivate
