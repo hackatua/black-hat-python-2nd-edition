@@ -1,4 +1,3 @@
-import urllib.parse
 import urllib.request
 
 url = 'http://google.com'
