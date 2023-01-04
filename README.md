@@ -1,4 +1,4 @@
-# Black Hack Python - 2nd edition
+# Black Hat Python - 2nd edition
 
 ## Configure *virtual environment*
 
